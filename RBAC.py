@@ -131,4 +131,5 @@ def create():
     ''', username=username)
 
 if __name__ == '__main__':
+    print("Pagina HTML simples no endereço local indicado Acima com as funcionalidades demonstradas")
     app.run(debug=True)
