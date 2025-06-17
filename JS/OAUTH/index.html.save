@@ -1,0 +1,11 @@
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;pt-BR&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot; /&gt;
+&lt;title&gt;Login com Google&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;h1&gt;Autenticação com Google OAuth2&lt;/h1&gt;
+&lt;a href=&quot;/&quot;&gt;Clique aqui para fazer login&lt;/a&gt;
+&lt;/body&gt;
+&lt;/html&gt;
