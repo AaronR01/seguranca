@@ -20,6 +20,32 @@ python nome_do_script.py
 Todo Script ira informar as necessidades de Entrada de dados conforme necessario
 Substitua `nome_do_script.py` pelo nome do script específico que você deseja executar.
 
+### Exercicios
+
+#### Cifra de Ceaser
+
+python Ceasarcifra.py
+é requisitado a mensagem e o quanto de shift é usado
+
+#### Cifra de Feistel
+
+python Feistelcifra.py
+é requisitada a mensagem
+
+#### RBAC
+
+python RBAC.py
+abre um servidor flask em [text](http://127.0.0.1:5000)
+tem um menu superior com os diferentes tipos de usuario e suas ações possiveis
+é reiniciado depois de cada execução (não tem um arquivo de memoria permamente)
+
+#### Diffie-Hellman
+
+python Diffie-Hellman.py
+é dada a opção de usar os valores padroes ou usar outros
+para fazer modificado usar a tecla "C"
+para manter os padrões P
+
 ### Requisitos
 
 - Python 3.13 instalado
