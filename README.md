@@ -44,7 +44,7 @@ python Feistelcifra.py
 python RBAC.py
 ```
 
-abre um servidor flask em [text](http://127.0.0.1:5000)
+abre um servidor flask em [http://127.0.0.1:5000](http://127.0.0.1:5000)
 tem um menu superior com os diferentes tipos de usuario e suas ações possiveis
 é reiniciado depois de cada execução (não tem um arquivo de memoria permamente)
 
